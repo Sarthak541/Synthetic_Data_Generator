@@ -1,4 +1,4 @@
-# Staging Table Creator & Data Generator for PAS
+# Staging Table Creator & Data Generator 
 
 This project reads DDL definitions from an Excel file, creates staging tables in a PostgreSQL database, and populates them with synthetic life insurance data generated using a locally running LLM (`gemma3` via OpenAI-compatible API).
 
